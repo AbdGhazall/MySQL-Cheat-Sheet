@@ -38,7 +38,7 @@
 mysql -u root -p
 ```
 ## Databases
-**Create Database**  
+**Create Database**
 Create a database named `my_database`.
 ```sql
 CREATE DATABASE my_database;
