@@ -44,7 +44,7 @@ Create a database named `my_database`.
 CREATE DATABASE my_database;
 ```
 **Use Database**
-  Select a specific database to work with and make it as the default database.
+   Select a specific database to work with and make it as the default database.
 ```sql
 USE my_database;
 ```
