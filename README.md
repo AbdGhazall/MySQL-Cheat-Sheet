@@ -42,12 +42,6 @@ mysql -u root -p
 Create a database named `my_database`.
 ```sql
 CREATE DATABASE my_database;
-
-## Databases
-**Create Database**
-Create a database named `my_database`.
-```sql
-CREATE DATABASE my_database;
 ```
 **Use Database**
 Select a specific database to work with and make it as the default database.
